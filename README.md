@@ -23,3 +23,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original
 <br />
 
 ---
+
+<details>
+
+<summary><h3>👨🏻‍🎓 Jose Maria's Journey</h3></summary>
+ Commencing my journey as a software engineering student, I harbored an immense passion for technology. Cybersecurity has always captivated me; from a tender age, I immersed myself in exploring the family computer, installing Kali Linux, and attempting to decipher our Wi-Fi password. Recently, I secured my inaugural role as a Linux/Windows Systems Administrator through an internship. During my leisure hours, I persist in extensive research within the realm of cybersecurity, acquainting myself with programming languages yet unexplored, and dedicating efforts to code virtually any conceptualization that emerges.
+
+In the words of Eleanor Roosevelt, 'The future belongs to those who believe in the beauty of their dreams.'
+</details>
